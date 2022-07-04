@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.711b5108.css",
+    "main.js": "/MyPortfolio/static/js/main.7bbf3397.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profilephoto.jpg": "/MyPortfolio/static/media/profilephoto.d2abca528c75a2fa4b40.jpg",
+    "static/media/Poppins-Thin.ttf": "/MyPortfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/MyPortfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/MyPortfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/MyPortfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/MyPortfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/MyPortfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/MyPortfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/profilepic.jpeg": "/MyPortfolio/static/media/profilepic.2792f274464c688873b5.jpeg",
+    "static/media/undraw2.svg": "/MyPortfolio/static/media/undraw2.61b73e394a9b865ad7da7210da62f8d0.svg",
+    "static/media/person.svg": "/MyPortfolio/static/media/person.2a034e3525917dd49fb3ff3fe856ef2b.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.711b5108.css.map": "/MyPortfolio/static/css/main.711b5108.css.map",
+    "main.7bbf3397.js.map": "/MyPortfolio/static/js/main.7bbf3397.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.711b5108.css",
+    "static/js/main.7bbf3397.js"
+  ]
+}
